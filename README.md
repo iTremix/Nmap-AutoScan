@@ -39,4 +39,4 @@ Caso encontre algum bug por favor reporte.
 
 
 
-_~ iTremix_
+~ _iTremix_
