@@ -1,4 +1,4 @@
-# Nmap AutoScans
+# [PT] Nmap AutoScans
 
 Nmap AutoScans é um script feito em python com diversos scans do nmap prontos a ser usados. O script também contem várias opções como :
 
